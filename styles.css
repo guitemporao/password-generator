@@ -32,6 +32,7 @@ button{
     padding: 5px 15px;
     border:0;
     border-radius:10px;
+    cursor: pointer;
 };
 
 button:hover {
@@ -52,7 +53,9 @@ div.range span{
     min-width:30px;
     text-align: center;
     border-radius:10px;
+   
 }
+
 div.options{
     display: grid;
     grid-template-columns: 1fr 1fr;
